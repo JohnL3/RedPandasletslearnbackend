@@ -18,10 +18,10 @@ body,html{
   height: 60px;
 }
 .headA-lg{
-  font-size: 2em;
+  font-size: 2.2em;
 }
  .headA-sm{
-  font-size: 1.4em;
+  font-size: 1.6em;
 }
 .links{
   width:100%;
@@ -32,7 +32,7 @@ body,html{
   text-align:center;
 }
 .heading{
-  font-size: 1.2em;
+  font-size: 1.4em;
 }
 .link-names{
   margin-top: 10px;
@@ -47,11 +47,12 @@ body,html{
 }
 .intro-heading,.future-head{
   text-align: center;
-  font-size: 1.4em;
+  font-size: 2em;
   margin-top: 20px;
 }
 .intro-about, .future-about{
-  width:60%;
+  width:80%;
+  font-size:1.4em;
   margin:auto;
 }
 
